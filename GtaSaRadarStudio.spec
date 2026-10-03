@@ -27,7 +27,7 @@ block_cipher = None
 # =============================================================================
 APP_NAME = 'GTA SA Radar Map Mod Maker'
 APP_ICON = 'icon.ico'
-APP_VERSION = '1.0'
+APP_VERSION = '1.1'
 
 # Project root directory
 project_dir = os.path.abspath(os.path.dirname(__file__) if '__file__' in locals() else '.')
